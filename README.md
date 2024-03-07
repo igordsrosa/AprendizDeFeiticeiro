@@ -20,4 +20,5 @@ Com uma interface gráfica intuitiva, o jogo oferece uma experiência interativa
 </div>
 <br>
 <h2>VIDEO</h2>
-[![Texto Alternativo](URL_da_Imagem)](https://youtu.be/VgBm_xReNd8?si=fFu---YVubYHHP-5)
+<h3>CLIQUE PARA ACESSAR O VIDEO / CLICK TO ACCESS THE VIDEO</h3>
+<a href="https://youtu.be/VgBm_xReNd8?si=Zza8jo9KeYG3x5sG" target="_blank"><img style="width: 800px" src="imagemJogo.png" target="_blank"></a>
