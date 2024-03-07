@@ -20,3 +20,4 @@ Com uma interface gráfica intuitiva, o jogo oferece uma experiência interativa
 </div>
 <br>
 <h2>VIDEO</h2>
+[![Texto Alternativo](URL_da_Imagem)](https://youtu.be/VgBm_xReNd8?si=fFu---YVubYHHP-5)
